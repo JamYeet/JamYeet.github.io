@@ -1,2 +1,2 @@
 # JamYeet.github.io
-#Project initialisation
+My Personal Portfolio
