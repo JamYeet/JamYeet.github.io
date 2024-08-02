@@ -150,13 +150,51 @@ li a:hover{
     margin:auto;
 }
 
+.project_container{
+    margin-left:30%;
+    margin-right:30%;
+    max-width:815px;
+    display:block;
+    margin:auto;
+}
+
+#websiteimg{
+    display:flex;
+    margin-right: 20px;
+    max-width:200px;
+    border-radius: 8px;
+    border: 2px solid #FACA3C;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.content_wrapper{
+    display: flex;
+    align-items: flex-start;
+    margin:20px;    
+}
+
 #myfuture{
-    text-align:center;
+    display:flex;
+    text-align:left;
     align-items:center;
     margin-left:auto;
     margin-right:auto;
-    max-width: 600px;
 }
+
+.project_links_container{
+    margin:20px;
+}
+
+#project_links{
+    color:#FF5A5F;
+    text-decoration:underline;
+}
+
+
+#project_links:hover{
+    font-style:italic;
+}
+
 /*comments*/
 .comments_content{
     margin-left:30%;
