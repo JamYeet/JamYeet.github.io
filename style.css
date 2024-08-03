@@ -78,7 +78,7 @@ li a:hover{
 }
 
 
-.mogcat1_container{
+.logo_container{
     display: flex;
     justify-content: center;
     place-items:center;
@@ -120,7 +120,7 @@ li a:hover{
 
 /*past*/    
 
-#mogcat2{ 
+#butterfly_quote_img{ 
     display:block;
     margin:auto;
     max-width:40%;
@@ -145,10 +145,6 @@ li a:hover{
 
 /*projects*/
 
-#mogcat3{ 
-    display:block;
-    margin:auto;
-}
 
 .project_container{
     margin-left:30%;
@@ -202,7 +198,7 @@ li a:hover{
     max-width:815px;
 }
 
-.quote{
+.less_is_more_quote{
     color:#e995a3;
     text-decoration:underline;
 }
