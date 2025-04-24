@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(250, 234, 234);
+    background-color: rgb(238, 239, 252);
     font-family: 'Times New Roman';
 }
 /*rgb(247, 242, 242);*/
@@ -21,13 +21,13 @@ footer{
     clear:both;
     position: relative;
     letter-spacing: 1.92px;
+    background-color: rgb(109, 108, 108);
 }
 
 #footer_ul{
     list-style:none;
     margin-left:auto;
     margin-right:auto;
-    border-top: 1px solid;
     background-color:rgb(109, 108, 108);
 }
 
@@ -51,7 +51,7 @@ li a{
 }
 
 li a:hover{
-    color: #e995a3;
+    color: #8589f3;
     /*#68b5fd;*/
     font-style:italic;
 }
@@ -84,7 +84,7 @@ li a:hover{
     place-items:center;
     animation: popOut 1s ease-in-out forwards;
 }
-/*
+
 @keyframes popOut {
     0% {
         transform: scale(0.5);
@@ -99,7 +99,6 @@ li a:hover{
         opacity: 1;
     }
 }
-*/
 
 .about{
     padding: 20px;
@@ -125,7 +124,7 @@ li a:hover{
     margin:auto;
     max-width:40%;
     max-height:40%;
-    box-shadow: 2px 2px 2px 2px #e6d3d3;
+    box-shadow: 2px 2px 2px 2px #cecfda;
 }
 
 .my_container{
@@ -216,7 +215,7 @@ td, th {
   }
 
 tr:nth-child(even) {
-    background-color: #dbbdbd;
+    background-color: #dadbff;
 }
 
 .structure_points{
